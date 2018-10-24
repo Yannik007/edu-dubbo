@@ -48,7 +48,7 @@
 		<!-- timer projects -->
 
 		<!-- frameworks -->
-		<org.springframework.version>3.2.18.RELEASE</org.springframework.version>
+		<org.springframework.version>4.3.17.RELEASE</org.springframework.version>
 		<org.apache.struts.version>2.5.16</org.apache.struts.version>
 
 	</properties>
